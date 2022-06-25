@@ -8,6 +8,8 @@ export default function Home() {
       <Head>
         <title>Best Backlicks for the Assam Websites, Assam Govt Website, Assamese Backlink</title>
         <link rel="icon" href="/favicon.ico" />
+
+<meta name="google-site-verification" content="OPdxC7ox0aJMzCsdF31HqS1GSNgv7DWTuUBtNALNsvA" />
       </Head>
 
       <main>
